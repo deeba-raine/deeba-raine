@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Deeba 👋
 
-<!--
-**deeba-raine/deeba-raine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software engineering and building web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student focused on software engineering
+- 💻 Interested in backend development, artificial intelligence, and scalable systems
+- 🌱 Continuously learning new technologies and improving my development skills
+- 🚀 I enjoy starting with small projects, learning from them, and gradually expanding them into more complete applications
+
+## Technologies
+
+### Languages
+JavaScript | Java | SQL | HTML | CSS
+
+### Frameworks & Tools
+React | Node.js | Express | Git | GitHub | MongoDB | MySQL
