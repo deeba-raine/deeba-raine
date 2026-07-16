@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Deeba 👋</h1>
-<h3 align="center">CS Student | Learning Web Development</h3>
+<h1 >Hi there, I'm Deeba 👋</h1>
+<h3 >CS Student | Learning Web Development</h3>
 
 ---
 
