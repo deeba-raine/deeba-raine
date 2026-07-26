@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Science student (Software Engineering concentration), graduating **Dec 2026**
+- 🎓 Computer Science student (Software Engineering concentration)
 - 🌱 Currently learning **React** and building on my HTML/CSS/JS foundations
 - 💻 I like starting small, understanding things deeply, then expanding projects step by step
 - 📚 Exploring backend development with Node.js and Express as I go
