@@ -39,10 +39,11 @@ Check out my pinned repositories below ↓
 ### 🔗 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/deeba-raine-8a912232a/" target="blank">
+  <a href="https://www.linkedin.com/in/deeba-raine-8a912232a/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://deeba-raine.github.io/portfolio/" target="blank">
+
+  <a href="https://deeba-raine.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
