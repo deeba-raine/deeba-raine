@@ -4,10 +4,12 @@
 ---
 
 ### 🚀 About Me
-🎓 Software Engineering student, graduating December 2026
-💻 Building full-stack apps with React, Node.js/Express, TypeScript, and MySQL
-🏗️ I like starting small, understanding things deeply, then expanding projects step by step
-📚 Currently deepening my API skills: REST fundamentals and exploring GraphQL
+* 🎓 Software Engineering student, graduating December 2026
+* 💻 Building full-stack apps with React, Node.js/Express, TypeScript, and MySQL
+* 🏗️ I like starting small, understanding things deeply, then expanding projects step by step
+* 📚 Currently deepening my API skills: REST fundamentals and GraphQL
+
+
 
 
 ---
