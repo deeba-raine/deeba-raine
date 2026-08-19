@@ -24,12 +24,20 @@ Building backend-focused applications that **apply API design, relational databa
 
 ---
 
-### 🚀 Projects 
+### 🚀 Projects
 
-- **Job Tracker API** — REST API with MySQL, built using MVC architecture. 
+- **Job Tracker API** — REST API with MySQL, built using MVC architecture.  
+  🔗 [GitHub Repo](https://github.com/deeba-raine/job-tracker-api)
+
 - **SIP eConsent System** — Full-stack consent management system with Node.js, Express, React, and a normalized 5-table MySQL database.  
+  🔗 [GitHub Repo](https://github.com/deeba-raine/sip-consent-system)
 
 Check out all my pinned repositories below ↓
 
 ---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeba-raine-8a912232a/)
+
 
