@@ -6,27 +6,15 @@ I build **backend systems, REST APIs, and data-driven applications** with a focu
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,graphql" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,react" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**JavaScript · TypeScript · Node.js · Express.js · MySQL · MongoDB · Git**
 
 ---
 
 ### 🚀 What I'm Building
 
 Building backend-focused applications that **apply API design, relational databases, testing, and scalable application architecture**.
-
-Check out my pinned repositories below ↓
 
 ---
 
@@ -36,14 +24,12 @@ Check out my pinned repositories below ↓
 
 ---
 
-### 🔗 Connect
+### 🚀 Projects 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deeba-raine-8a912232a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+- **Job Tracker API** — REST API with MySQL, built using MVC architecture. 
+- **SIP eConsent System** — Full-stack consent management system with Node.js, Express, React, and a normalized 5-table MySQL database.  
 
-  <a href="https://deeba-raine.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+Check out all my pinned repositories below ↓
+
+---
+
