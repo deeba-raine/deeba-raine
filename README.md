@@ -22,10 +22,10 @@ Currently deepening my skills through GraphQL, JWT authentication, automated tes
 
 ### 🚀 Projects
 
-- **Job Tracker API** — REST API with MySQL, built using MVC architecture.  
-  🔗 [GitHub Repo](https://github.com/deeba-raine/job-tracker-api)
+- **Job Tracker API**: Backend application supporting REST and GraphQL, built with TypeScript, Express, MySQL, and MVC architecture.
+🔗 [GitHub Repo](https://github.com/deeba-raine/job-tracker-api)
 
-- **SIP eConsent System** — Full-stack consent management system with Node.js, Express, React, and a normalized 5-table MySQL database.  
+- **SIP eConsent System** : Full-stack consent management system built with Node.js, Express, React, RESTful APIs, and MySQL.   
   🔗 [GitHub Repo](https://github.com/deeba-raine/sip-consent-system)
 
 Check out all my pinned repositories below ↓
