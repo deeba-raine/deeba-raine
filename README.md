@@ -1,10 +1,8 @@
 # Hi, I'm Deeba Raine 👋
 
 ### Software Engineering Student | Backend & Node.js Developer
-
-I build **backend systems, REST APIs, and data-driven applications** with a focus on **Node.js, TypeScript, Express.js, SQL, and MySQL**. Currently deepening my backend engineering skills through **GraphQL, authentication, JWT Authentication, automated testing, and backend system design**.
-
-I am currently focused on **API design, relational databases, testing, and scalable application architecture**.
+I build backend systems, REST APIs, and data-driven applications with a focus on Node.js, TypeScript, Express.js, SQL, and MySQL.     
+Currently deepening my skills through GraphQL, JWT authentication, automated testing, and system design.
 
 ---
 
