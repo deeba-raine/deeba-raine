@@ -4,7 +4,11 @@
 I build backend systems, REST APIs, and data-driven applications with a focus on Node.js, TypeScript, Express.js, SQL, and MySQL.     
 Currently deepening my skills through GraphQL, JWT authentication, automated testing, and system design.
 
+
+&nbsp;
 ---
+
+
 
 ### Tech Stack
 
@@ -17,6 +21,7 @@ Currently deepening my skills through GraphQL, JWT authentication, automated tes
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+&nbsp;
 ---
 
 ### 🚀 Projects
@@ -29,6 +34,7 @@ Currently deepening my skills through GraphQL, JWT authentication, automated tes
 
 Check out all my pinned repositories below ↓
 
+&nbsp;
 ---
 
 ### Connect
