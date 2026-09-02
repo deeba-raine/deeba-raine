@@ -28,11 +28,5 @@ Currently deepening my skills through GraphQL, JWT authentication, automated tes
 
 Check out all my pinned repositories below ↓
 
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deeba-raine-8a912232a/)
-
 
 
