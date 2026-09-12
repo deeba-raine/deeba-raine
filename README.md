@@ -7,9 +7,7 @@ Currently deepening my skills through GraphQL, JWT authentication, automated tes
 ---
 
 
-
 ### Tech Stack
-
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -20,13 +18,21 @@ Currently deepening my skills through GraphQL, JWT authentication, automated tes
 
 ---
 
-###  Projects
+### 🚀 Featured Projects
 
-- **[Job Tracker API](https://github.com/deeba-raine/job-tracker-api)**: Job search tracker application replacing Excel-based tracking, built with TypeScript, MySQL, REST.
-- **[SIP eConsent System](https://github.com/deeba-raine/sip-consent-system)** : Digital consent system replacing paper forms for a children’s vaccination program, built with Node.js, React, MySQL
-  
+- **[API Pulse](https://github.com/deeba-raine/api-pulse)** — Lightweight API monitoring and health-check project.
+- **[Emissions Watch](https://github.com/deeba-raine/emissions-watch)** — Climate-focused app for tracking and visualizing emissions data.
+- **[Reading Companion AI](https://github.com/deeba-raine/reading-companion-ai)** — AI-assisted reading companion for interactive learning and comprehension support.
+- **[SIP eConsent System](https://github.com/deeba-raine/sip-consent-system)** — Full-stack digital consent system for school immunization workflows.
 
-Check out all my pinned repositories below ↓
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deeba-raine&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 
