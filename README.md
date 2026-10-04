@@ -1,7 +1,7 @@
 # Hi, I'm Deeba Raine 👋
 
 ### Software Engineering Student | Backend & Node.js Developer
-I build backend systems, REST APIs, and data-driven applications using Node.js, TypeScript, Express.js, SQL, and MySQL.
+I build backend systems, REST APIs, and data-driven applications using Node.js, JavaScript, TypeScript, Express.js, SQL, and MySQL.
 Currently learning analytical dashboards, chatbot development, and AI features for web applications.
 
 ---
@@ -20,12 +20,10 @@ Currently learning analytical dashboards, chatbot development, and AI features f
 
 ### 🚀 Featured Projects
 
-- **[API Pulse](https://github.com/deeba-raine/api-pulse)** — Lightweight API monitoring and health-check project.
-- **[Emissions Watch](https://github.com/deeba-raine/emissions-watch)** — Climate-focused app for tracking and visualizing emissions data.
-- **[Reading Companion AI](https://github.com/deeba-raine/reading-companion-ai)** — AI-assisted reading companion for interactive learning and comprehension support.
-- **[SIP eConsent System](https://github.com/deeba-raine/sip-consent-system)** — Full-stack digital consent system for school immunization workflows.
-
-
+- **[API Pulse](https://github.com/deeba-raine/api-pulse)**: Lightweight monitoring tool that checks API endpoints and reports their health and availability. 
+- **[SIP eConsent](https://github.com/deeba-raine/sip-consent-system)**: Full-stack school immunization consent system with online parent submissions and a nurse dashboard for review. 
+- **[NextRead AI](https://github.com/deeba-raine/reading-companion-ai)**: AI reading companion that recommends your next book from your notes and highlights. 
+- **[Job Tracker](https://github.com/deeba-raine/job-tracking-app)**: Job application tracker with charts that visualize your applications and progress through the hiring pipeline. 
 ---
 
 ### 🔥 GitHub Streak
