@@ -1,6 +1,6 @@
 # Hi, I'm Deeba Raine 👋
 
-### Software Engineering Student | Backend & Node.js Developer
+### Software Engineering Student |Full-Stack & Node.js Developer
 I build backend systems, REST APIs, and data-driven applications using Node.js, JavaScript, TypeScript, Express.js, SQL, and MySQL.
 Currently learning analytical dashboards, chatbot development, and AI features for web applications.
 
@@ -9,6 +9,7 @@ Currently learning analytical dashboards, chatbot development, and AI features f
 
 ### Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
