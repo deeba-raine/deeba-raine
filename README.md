@@ -24,7 +24,7 @@ Currently learning analytical dashboards, chatbot development, and AI features f
 - **[API Pulse](https://github.com/deeba-raine/api-pulse)**: Lightweight monitoring tool that checks API endpoints and reports their health and availability. 
 - **[SIP eConsent](https://github.com/deeba-raine/sip-consent-system)**: Full-stack school immunization consent system with online parent submissions and a nurse dashboard for review. 
 - **[NextRead AI](https://github.com/deeba-raine/reading-companion-ai)**: AI reading companion that recommends your next book from your notes and highlights. 
-- **[Job Tracker](https://github.com/deeba-raine/job-tracking-app)**: Job application tracker with charts that visualize your applications and progress through the hiring pipeline. 
+- **[Job Tracker](https://github.com/deeba-raine/job-tracker.git)**: Job application tracker with charts that visualize your applications and progress through the hiring pipeline. 
 ---
 
 ### 🔥 GitHub Streak
