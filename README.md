@@ -1,8 +1,7 @@
 # Hi, I'm Deeba Raine 👋
 
-### Software Engineering Student |Full-Stack & Node.js Developer
-I build backend systems, REST APIs, and data-driven applications using Node.js, JavaScript, TypeScript, Express.js, SQL, and MySQL.
-Currently learning analytical dashboards, chatbot development, and AI features for web applications.
+# Computer Science Student | Software Development & Data-Driven Applications
+I'm a Computer Science student at Western Kentucky University interested in building software applications, working with databases, and exploring data-driven solutions.
 
 ---
 
